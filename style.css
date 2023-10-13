@@ -141,4 +141,7 @@ body {
     background-color: var(--background-color);
     color: var(--primary-color);
     padding: 10px;
+
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12px;
 }
